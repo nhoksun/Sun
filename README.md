@@ -2,7 +2,7 @@
 Somethings other normal
 
 # Basic vi Commands
-      # https://www.cs.colostate.edu/helpdocs/vi.html
+https://www.cs.colostate.edu/helpdocs/vi.html
 
 try to use github vs Tank Unity Game.
 test .
