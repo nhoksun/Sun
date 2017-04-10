@@ -21,3 +21,6 @@ i don't know how to delete Branch.
 ## To remove a remote branch (if you know what you are doing!)
 
       # git push origin :the_remote_branch
+
+## Tutorials use Github Command
+      http://rogerdudler.github.io/git-guide/index.vi.html
