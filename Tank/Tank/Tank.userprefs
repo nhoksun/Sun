@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shell/ShellExplosion.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Camera/CameraControl.cs">
     <Files>
-      <File FileName="Assets/Scripts/Shell/ShellExplosion.cs" Line="30" Column="4" />
+      <File FileName="Assets/Scripts/Tank/TankShooting.cs" Line="45" Column="29" />
+      <File FileName="Assets/Scripts/Camera/CameraControl.cs" Line="45" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
