@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{E4419464-D570-C4B4-97BA-1979E790B104}") = "Tank", "Assembly-CSharp-firstpass.csproj", "{C0446BC7-C49A-C8A3-A1BF-84B00C7B2553}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank", "Assembly-CSharp-firstpass.csproj", "{C0446BC7-C49A-C8A3-A1BF-84B00C7B2553}"
 EndProject
-Project("{E4419464-D570-C4B4-97BA-1979E790B104}") = "Tank", "Assembly-CSharp.csproj", "{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank", "Assembly-CSharp.csproj", "{BE59C06D-9AAC-64A8-0390-8CA6FBC949DD}"
 EndProject
-Project("{E4419464-D570-C4B4-97BA-1979E790B104}") = "Tank", "Assembly-CSharp-Editor.csproj", "{AC03063C-EA53-A408-E252-4B43726D9E8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank", "Assembly-CSharp-Editor.csproj", "{AC03063C-EA53-A408-E252-4B43726D9E8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
